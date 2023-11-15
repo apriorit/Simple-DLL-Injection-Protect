@@ -57,5 +57,5 @@ Regsvr32 DeviareLiteCOM.dll
 
 
 # License
-[Apriorit](http://www.apriorit.com/) released under the OSI-approved 3-clause BSD license. You can freely use it in your commercial or opensource software.
+[Apriorit](http://www.apriorit.com/) released [Simple-DLL-Injection-Protect](https://github.com/apriorit/Simple-DLL-Injection-Protect) under the OSI-approved 3-clause BSD license. You can freely use it in your commercial or opensource software.
 
