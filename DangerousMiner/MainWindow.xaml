@@ -1,0 +1,12 @@
+﻿<Window x:Class="DangerousMiner.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DangerousMiner"
+        mc:Ignorable="d"
+        Title="DangerousMiner Application" Height="200" Width="500">
+    <Grid>
+        <Button x:Name="btnStartMining" Content="Start Mining" HorizontalAlignment="Center" VerticalAlignment="Center" Click="BtnStartMining" />
+    </Grid>
+</Window>
